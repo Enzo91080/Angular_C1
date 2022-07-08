@@ -1,6 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "editor.fontSize": 18,
-    "editor.fontFamily": "JetBrains Mono",
-    "window.zoomLevel": 3
+    "editor.fontFamily": "Consolas",
+    "window.zoomLevel": 1
 }
